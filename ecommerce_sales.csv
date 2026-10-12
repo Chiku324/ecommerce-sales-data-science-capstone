@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Product,Category,Region,Sales_Channel,Quantity,Unit_Price_INR,Discount_Rate,Revenue_INR
+ORD0285,2025-01-01,Headphones,Electronics,South,Mobile App,1,1799,0.15,1529.15
+ORD0027,2025-01-01,Headphones,Electronics,North,Marketplace,1,1799,0.0,1799.0
+ORD0368,2025-01-05,Notebook,Stationery,East,Marketplace,2,99,0.0,198.0
+ORD0432,2025-01-05,Keyboard,Accessories,East,Mobile App,1,1299,0.15,1104.15
+ORD0336,2025-01-05,Wireless Mouse,Accessories,East,Marketplace,1,599,0.1,539.1
+ORD0468,2025-01-06,Wireless Mouse,Accessories,West,Marketplace,1,599,0.05,569.05
+ORD0411,2025-01-08,USB-C Hub,Accessories,West,Website,3,1599,0.0,4797.0
+ORD0193,2025-01-08,Notebook,Stationery,East,Mobile App,1,99,0.15,84.15
+ORD0209,2025-01-09,Keyboard,Accessories,West,Mobile App,1,1299,0.05,1234.05
+ORD0284,2025-01-09,Desk Lamp,Home Office,East,Marketplace,2,999,0.05,1898.1
+ORD0264,2025-01-10,Pen Set,Stationery,East,Marketplace,1,149,0.05,141.55
+ORD0033,2025-01-11,Headphones,Electronics,North,Website,2,1799,0.05,3418.1
+ORD0208,2025-01-14,Keyboard,Accessories,Central,Marketplace,1,1299,0.05,1234.05
+ORD0147,2025-01-14,Wireless Mouse,Accessories,East,Mobile App,1,599,0.0,599.0
+ORD0004,2025-01-14,Desk Lamp,Home Office,South,Marketplace,1,999,0.15,849.15
+ORD0323,2025-01-15,Wireless Mouse,Accessories,South,Mobile App,1,599,0.1,539.1
+ORD0491,2025-01-17,Notebook,Stationery,South,Marketplace,1,99,0.1,89.1
+ORD0003,2025-01-17,Laptop Stand,Accessories,Central,Mobile App,1,899,0.05,854.05
+ORD0172,2025-01-19,Headphones,Electronics,South,Mobile App,1,1799,0.1,1619.1
+ORD0367,2025-01-19,Water Bottle,Lifestyle,East,Website,2,399,0.05,758.1
+ORD0252,2025-01-20,Laptop Stand,Accessories,North,Mobile App,1,899,0.1,809.1
+ORD0148,2025-01-21,Keyboard,Accessories,East,Website,1,1299,0.15,1104.15
+ORD0008,2025-01-23,Backpack,Lifestyle,North,Mobile App,1,1199,0.15,1019.15
+ORD0288,2025-01-23,Water Bottle,Lifestyle,North,Marketplace,4,399,0.1,1436.4
+ORD0416,2025-01-24,Headphones,Electronics,North,Marketplace,3,1799,0.05,5127.15
+ORD0047,2025-01-26,Headphones,Electronics,North,Mobile App,1,1799,0.05,1709.05
+ORD0132,2025-01-27,Notebook,Stationery,North,Website,3,99,0.15,252.45
+ORD0251,2025-01-29,Pen Set,Stationery,West,Marketplace,1,149,0.1,134.1
+ORD0389,2025-02-02,Desk Lamp,Home Office,West,Website,4,999,0.0,3996.0
+ORD0315,2025-02-03,Notebook,Stationery,Central,Marketplace,1,99,0.15,84.15
+ORD0311,2025-02-03,Desk Lamp,Home Office,South,Mobile App,1,999,0.1,899.1
+ORD0289,2025-02-04,Pen Set,Stationery,Central,Mobile App,1,149,0.0,149.0
+ORD0473,2025-02-04,Notebook,Stationery,North,Marketplace,1,99,0.0,99.0
+ORD0250,2025-02-04,Backpack,Lifestyle,East,Mobile App,1,1199,0.1,1079.1
+ORD0077,2025-02-05,Pen Set,Stationery,East,Mobile App,2,149,0.0,298.0
+ORD0106,2025-02-05,Laptop Stand,Accessories,South,Website,2,899,0.05,1708.1
+ORD0463,2025-02-07,Backpack,Lifestyle,Central,Marketplace,4,1199,0.15,4076.6
+ORD0326,2025-02-07,Laptop Stand,Accessories,West,Marketplace,1,899,0.15,764.15
+ORD0444,2025-02-07,Wireless Mouse,Accessories,South,Mobile App,1,599,0.15,509.15
+ORD0085,2025-02-07,Backpack,Lifestyle,West,Marketplace,1,1199,0.05,1139.05
+ORD0245,2025-02-09,Desk Lamp,Home Office,East,Marketplace,2,999,0.05,1898.1
+ORD0177,2025-02-10,Headphones,Electronics,West,Mobile App,3,1799,0.05,5127.15
+ORD0048,2025-02-11,Keyboard,Accessories,South,Marketplace,1,1299,0.0,1299.0
+ORD0483,2025-02-13,Keyboard,Accessories,East,Website,1,1299,0.05,1234.05
+ORD0117,2025-02-14,Notebook,Stationery,West,Mobile App,3,99,0.05,282.15
+ORD0448,2025-02-15,Pen Set,Stationery,West,Website,2,149,0.1,268.2
+ORD0253,2025-02-16,Headphones,Electronics,West,Mobile App,2,1799,0.15,3058.3
+ORD0385,2025-02-16,Desk Lamp,Home Office,West,Website,1,999,0.0,999.0
+ORD0020,2025-02-16,Laptop Stand,Accessories,South,Mobile App,3,899,0.05,2562.15
+ORD0173,2025-02-16,Water Bottle,Lifestyle,West,Website,4,399,0.0,1596.0
+ORD0007,2025-02-17,Water Bottle,Lifestyle,Central,Marketplace,1,399,0.1,359.1
+ORD0433,2025-02-18,Desk Lamp,Home Office,South,Mobile App,3,999,0.05,2847.15
+ORD0219,2025-02-18,Pen Set,Stationery,East,Website,1,149,0.1,134.1
+ORD0221,2025-02-19,Pen Set,Stationery,Central,Mobile App,2,149,0.0,298.0
+ORD0200,2025-02-20,Backpack,Lifestyle,North,Mobile App,2,1199,0.1,2158.2
+ORD0042,2025-02-20,Laptop Stand,Accessories,North,Website,2,899,0.0,1798.0
+ORD0362,2025-02-21,Water Bottle,Lifestyle,North,Mobile App,1,399,0.15,339.15
+ORD0266,2025-02-21,Desk Lamp,Home Office,East,Mobile App,2,999,0.0,1998.0
+ORD0274,2025-02-22,Desk Lamp,Home Office,North,Website,3,999,0.1,2697.3
+ORD0329,2025-02-24,Pen Set,Stationery,East,Marketplace,1,149,0.0,149.0
+ORD0243,2025-02-24,USB-C Hub,Accessories,Central,Website,1,1599,0.15,1359.15
+ORD0211,2025-02-25,Backpack,Lifestyle,Central,Marketplace,1,1199,0.0,1199.0
+ORD0062,2025-02-27,Wireless Mouse,Accessories,Central,Website,3,599,0.05,1707.15
+ORD0396,2025-02-27,Laptop Stand,Accessories,Central,Website,2,899,0.15,1528.3
+ORD0217,2025-02-28,Desk Lamp,Home Office,West,Marketplace,2,999,0.05,1898.1
+ORD0210,2025-02-28,Wireless Mouse,Accessories,Central,Mobile App,1,599,0.1,539.1
+ORD0198,2025-03-01,Wireless Mouse,Accessories,West,Marketplace,1,599,0.05,569.05
+ORD0049,2025-03-03,Headphones,Electronics,Central,Website,1,1799,0.0,1799.0
+ORD0309,2025-03-04,Keyboard,Accessories,South,Mobile App,3,1299,0.15,3312.45
+ORD0295,2025-03-05,Pen Set,Stationery,West,Marketplace,1,149,0.15,126.65
+ORD0205,2025-03-06,Headphones,Electronics,Central,Website,1,1799,0.05,1709.05
+ORD0207,2025-03-08,Desk Lamp,Home Office,North,Mobile App,1,999,0.05,949.05
+ORD0036,2025-03-09,Headphones,Electronics,West,Marketplace,2,1799,0.05,3418.1
+ORD0267,2025-03-09,Headphones,Electronics,South,Mobile App,1,1799,0.05,1709.05
+ORD0237,2025-03-12,Notebook,Stationery,North,Marketplace,1,99,0.0,99.0
+ORD0279,2025-03-12,Laptop Stand,Accessories,South,Mobile App,1,899,0.15,764.15
+ORD0273,2025-03-12,Notebook,Stationery,East,Mobile App,1,99,0.15,84.15
+ORD0485,2025-03-12,Headphones,Electronics,West,Mobile App,1,1799,0.05,1709.05
+ORD0363,2025-03-12,Laptop Stand,Accessories,West,Mobile App,4,899,0.05,3416.2
+ORD0343,2025-03-13,Pen Set,Stationery,South,Marketplace,3,149,0.1,402.3
+ORD0313,2025-03-13,USB-C Hub,Accessories,East,Mobile App,2,1599,0.0,3198.0
+ORD0498,2025-03-13,USB-C Hub,Accessories,Central,Marketplace,2,1599,0.0,3198.0
+ORD0018,2025-03-13,USB-C Hub,Accessories,Central,Marketplace,2,1599,0.1,2878.2
+ORD0002,2025-03-13,Wireless Mouse,Accessories,Central,Marketplace,2,599,0.0,1198.0
+ORD0471,2025-03-14,Pen Set,Stationery,South,Mobile App,1,149,0.15,126.65
+ORD0143,2025-03-14,Wireless Mouse,Accessories,Central,Mobile App,1,599,0.1,539.1
+ORD0178,2025-03-15,USB-C Hub,Accessories,West,Marketplace,1,1599,0.1,1439.1
+ORD0406,2025-03-15,Backpack,Lifestyle,West,Mobile App,3,1199,0.15,3057.45
+ORD0423,2025-03-19,Laptop Stand,Accessories,East,Website,1,899,0.15,764.15
+ORD0350,2025-03-19,Water Bottle,Lifestyle,Central,Mobile App,2,399,0.15,678.3
+ORD0115,2025-03-20,Water Bottle,Lifestyle,Central,Mobile App,1,399,0.1,359.1
+ORD0322,2025-03-20,Keyboard,Accessories,Central,Website,2,1299,0.1,2338.2
+ORD0232,2025-03-22,Headphones,Electronics,East,Marketplace,1,1799,0.0,1799.0
+ORD0319,2025-03-24,Pen Set,Stationery,East,Mobile App,3,149,0.05,424.65
+ORD0437,2025-03-25,Headphones,Electronics,Central,Marketplace,1,1799,0.15,1529.15
+ORD0044,2025-03-26,Water Bottle,Lifestyle,East,Marketplace,1,399,0.15,339.15
+ORD0043,2025-03-27,Water Bottle,Lifestyle,West,Website,1,399,0.05,379.05
+ORD0420,2025-03-28,Pen Set,Stationery,South,Mobile App,1,149,0.15,126.65
+ORD0242,2025-03-29,Headphones,Electronics,North,Marketplace,1,1799,0.1,1619.1
+ORD0247,2025-03-30,Headphones,Electronics,South,Mobile App,1,1799,0.0,1799.0
+ORD0475,2025-03-31,Desk Lamp,Home Office,West,Website,1,999,0.15,849.15
+ORD0460,2025-04-03,Desk Lamp,Home Office,South,Marketplace,1,999,0.15,849.15
+ORD0298,2025-04-03,Desk Lamp,Home Office,North,Marketplace,1,999,0.0,999.0
+ORD0484,2025-04-04,Pen Set,Stationery,West,Mobile App,2,149,0.15,253.3
+ORD0307,2025-04-06,Backpack,Lifestyle,East,Marketplace,1,1199,0.0,1199.0
+ORD0487,2025-04-06,Pen Set,Stationery,East,Website,3,149,0.0,447.0
+ORD0447,2025-04-06,Water Bottle,Lifestyle,North,Website,1,399,0.15,339.15
+ORD0154,2025-04-07,Desk Lamp,Home Office,West,Website,1,999,0.15,849.15
+ORD0165,2025-04-07,USB-C Hub,Accessories,West,Website,2,1599,0.05,3038.1
+ORD0037,2025-04-08,Wireless Mouse,Accessories,East,Marketplace,1,599,0.15,509.15
+ORD0040,2025-04-08,Desk Lamp,Home Office,South,Marketplace,1,999,0.15,849.15
+ORD0409,2025-04-08,Laptop Stand,Accessories,North,Website,1,899,0.0,899.0
+ORD0354,2025-04-09,USB-C Hub,Accessories,South,Marketplace,1,1599,0.1,1439.1
+ORD0126,2025-04-09,Pen Set,Stationery,South,Website,1,149,0.05,141.55
+ORD0079,2025-04-09,Water Bottle,Lifestyle,South,Mobile App,2,399,0.15,678.3
+ORD0265,2025-04-09,USB-C Hub,Accessories,North,Marketplace,4,1599,0.05,6076.2
+ORD0418,2025-04-11,Pen Set,Stationery,West,Mobile App,1,149,0.05,141.55
+ORD0454,2025-04-11,Backpack,Lifestyle,North,Marketplace,1,1199,0.1,1079.1
+ORD0084,2025-04-12,Keyboard,Accessories,West,Mobile App,1,1299,0.05,1234.05
+ORD0026,2025-04-12,Keyboard,Accessories,Central,Mobile App,1,1299,0.05,1234.05
+ORD0111,2025-04-12,Wireless Mouse,Accessories,North,Mobile App,2,599,0.05,1138.1
+ORD0457,2025-04-13,Backpack,Lifestyle,East,Marketplace,1,1199,0.15,1019.15
+ORD0327,2025-04-15,Pen Set,Stationery,East,Mobile App,2,149,0.1,268.2
+ORD0155,2025-04-15,Notebook,Stationery,West,Mobile App,1,99,0.1,89.1
+ORD0081,2025-04-18,Water Bottle,Lifestyle,West,Marketplace,2,399,0.1,718.2
+ORD0204,2025-04-19,Headphones,Electronics,East,Website,4,1799,0.0,7196.0
+ORD0016,2025-04-19,Headphones,Electronics,South,Mobile App,3,1799,0.1,4857.3
+ORD0138,2025-04-19,Notebook,Stationery,South,Website,2,99,0.05,188.1
+ORD0281,2025-04-21,Keyboard,Accessories,North,Marketplace,1,1299,0.15,1104.15
+ORD0234,2025-04-21,Desk Lamp,Home Office,North,Marketplace,1,999,0.15,849.15
+ORD0388,2025-04-22,Headphones,Electronics,East,Mobile App,1,1799,0.15,1529.15
+ORD0381,2025-04-22,USB-C Hub,Accessories,Central,Marketplace,2,1599,0.0,3198.0
+ORD0108,2025-04-22,Backpack,Lifestyle,South,Mobile App,2,1199,0.1,2158.2
+ORD0186,2025-04-23,USB-C Hub,Accessories,North,Mobile App,2,1599,0.05,3038.1
+ORD0087,2025-04-23,Keyboard,Accessories,North,Mobile App,2,1299,0.15,2208.3
+ORD0379,2025-04-24,USB-C Hub,Accessories,South,Marketplace,4,1599,0.15,5436.6
+ORD0276,2025-04-24,Backpack,Lifestyle,West,Website,3,1199,0.0,3597.0
+ORD0123,2025-04-24,Water Bottle,Lifestyle,Central,Marketplace,2,399,0.1,718.2
+ORD0278,2025-04-25,Laptop Stand,Accessories,East,Website,1,899,0.0,899.0
+ORD0218,2025-04-27,Water Bottle,Lifestyle,West,Marketplace,1,399,0.15,339.15
+ORD0347,2025-04-27,Laptop Stand,Accessories,Central,Mobile App,2,899,0.05,1708.1
+ORD0070,2025-04-27,USB-C Hub,Accessories,West,Marketplace,1,1599,0.05,1519.05
+ORD0015,2025-04-28,Laptop Stand,Accessories,East,Website,2,899,0.15,1528.3
+ORD0395,2025-04-28,USB-C Hub,Accessories,East,Website,1,1599,0.05,1519.05
+ORD0094,2025-04-29,Water Bottle,Lifestyle,North,Marketplace,2,399,0.05,758.1
+ORD0195,2025-04-30,Backpack,Lifestyle,Central,Website,1,1199,0.1,1079.1
+ORD0011,2025-04-30,Wireless Mouse,Accessories,East,Website,1,599,0.15,509.15
+ORD0399,2025-04-30,Desk Lamp,Home Office,South,Mobile App,1,999,0.0,999.0
+ORD0206,2025-04-30,Pen Set,Stationery,East,Website,2,149,0.0,298.0
+ORD0375,2025-05-01,Backpack,Lifestyle,East,Mobile App,2,1199,0.1,2158.2
+ORD0282,2025-05-02,Notebook,Stationery,West,Mobile App,1,99,0.05,94.05
+ORD0397,2025-05-04,USB-C Hub,Accessories,West,Mobile App,1,1599,0.0,1599.0
+ORD0430,2025-05-05,USB-C Hub,Accessories,North,Website,1,1599,0.0,1599.0
+ORD0160,2025-05-05,Backpack,Lifestyle,South,Mobile App,2,1199,0.15,2038.3
+ORD0330,2025-05-07,Keyboard,Accessories,West,Mobile App,1,1299,0.1,1169.1
+ORD0068,2025-05-08,Notebook,Stationery,West,Website,1,99,0.0,99.0
+ORD0088,2025-05-08,Wireless Mouse,Accessories,Central,Mobile App,1,599,0.15,509.15
+ORD0453,2025-05-09,USB-C Hub,Accessories,Central,Mobile App,2,1599,0.15,2718.3
+ORD0073,2025-05-14,Keyboard,Accessories,North,Website,2,1299,0.1,2338.2
+ORD0480,2025-05-15,Backpack,Lifestyle,Central,Marketplace,1,1199,0.1,1079.1
+ORD0061,2025-05-15,Keyboard,Accessories,Central,Website,2,1299,0.15,2208.3
+ORD0057,2025-05-16,Wireless Mouse,Accessories,East,Marketplace,3,599,0.05,1707.15
+ORD0297,2025-05-17,Wireless Mouse,Accessories,West,Mobile App,2,599,0.0,1198.0
+ORD0451,2025-05-18,Notebook,Stationery,North,Website,1,99,0.05,94.05
+ORD0493,2025-05-18,Desk Lamp,Home Office,Central,Website,2,999,0.1,1798.2
+ORD0360,2025-05-19,Desk Lamp,Home Office,North,Mobile App,2,999,0.05,1898.1
+ORD0190,2025-05-20,Keyboard,Accessories,East,Mobile App,1,1299,0.15,1104.15
+ORD0275,2025-05-20,Backpack,Lifestyle,West,Website,3,1199,0.05,3417.15
+ORD0093,2025-05-20,Pen Set,Stationery,South,Website,1,149,0.0,149.0
+ORD0099,2025-05-20,Water Bottle,Lifestyle,East,Mobile App,1,399,0.15,339.15
+ORD0370,2025-05-20,USB-C Hub,Accessories,South,Mobile App,2,1599,0.1,2878.2
+ORD0301,2025-05-21,Laptop Stand,Accessories,East,Mobile App,1,899,0.15,764.15
+ORD0426,2025-05-21,Desk Lamp,Home Office,Central,Mobile App,4,999,0.0,3996.0
+ORD0203,2025-05-22,USB-C Hub,Accessories,North,Mobile App,4,1599,0.15,5436.6
+ORD0071,2025-05-23,Wireless Mouse,Accessories,East,Mobile App,4,599,0.1,2156.4
+ORD0104,2025-05-23,Water Bottle,Lifestyle,West,Website,1,399,0.0,399.0
+ORD0459,2025-05-24,Water Bottle,Lifestyle,Central,Mobile App,1,399,0.05,379.05
+ORD0335,2025-05-25,Backpack,Lifestyle,East,Mobile App,2,1199,0.15,2038.3
+ORD0141,2025-05-25,Backpack,Lifestyle,East,Mobile App,1,1199,0.05,1139.05
+ORD0258,2025-05-25,Water Bottle,Lifestyle,Central,Website,1,399,0.1,359.1
+ORD0320,2025-05-26,Wireless Mouse,Accessories,South,Mobile App,1,599,0.1,539.1
+ORD0390,2025-05-27,Water Bottle,Lifestyle,West,Marketplace,1,399,0.05,379.05
+ORD0045,2025-05-27,Water Bottle,Lifestyle,South,Website,2,399,0.15,678.3
+ORD0355,2025-05-28,USB-C Hub,Accessories,East,Marketplace,2,1599,0.15,2718.3
+ORD0338,2025-05-28,Wireless Mouse,Accessories,Central,Marketplace,1,599,0.15,509.15
+ORD0400,2025-05-29,USB-C Hub,Accessories,Central,Mobile App,2,1599,0.1,2878.2
+ORD0358,2025-05-29,Laptop Stand,Accessories,East,Marketplace,1,899,0.0,899.0
+ORD0449,2025-05-30,Water Bottle,Lifestyle,Central,Website,1,399,0.0,399.0
+ORD0461,2025-05-30,Wireless Mouse,Accessories,West,Website,2,599,0.15,1018.3
+ORD0500,2025-05-30,Notebook,Stationery,South,Marketplace,2,99,0.0,198.0
+ORD0159,2025-05-30,Desk Lamp,Home Office,West,Marketplace,2,999,0.15,1698.3
+ORD0175,2025-05-31,Pen Set,Stationery,South,Mobile App,1,149,0.05,141.55
+ORD0009,2025-05-31,Headphones,Electronics,Central,Website,3,1799,0.1,4857.3
+ORD0128,2025-06-01,USB-C Hub,Accessories,North,Mobile App,1,1599,0.1,1439.1
+ORD0046,2025-06-01,USB-C Hub,Accessories,East,Website,4,1599,0.0,6396.0
+ORD0394,2025-06-02,Backpack,Lifestyle,Central,Marketplace,2,1199,0.15,2038.3
+ORD0112,2025-06-04,Headphones,Electronics,East,Mobile App,2,1799,0.0,3598.0
+ORD0321,2025-06-05,Headphones,Electronics,Central,Mobile App,1,1799,0.05,1709.05
+ORD0028,2025-06-07,USB-C Hub,Accessories,North,Mobile App,1,1599,0.0,1599.0
+ORD0064,2025-06-07,Pen Set,Stationery,East,Website,3,149,0.0,447.0
+ORD0346,2025-06-07,Laptop Stand,Accessories,Central,Mobile App,2,899,0.1,1618.2
+ORD0078,2025-06-08,Water Bottle,Lifestyle,Central,Website,1,399,0.1,359.1
+ORD0332,2025-06-10,USB-C Hub,Accessories,Central,Marketplace,2,1599,0.15,2718.3
+ORD0293,2025-06-11,Notebook,Stationery,East,Website,1,99,0.15,84.15
+ORD0166,2025-06-12,Backpack,Lifestyle,West,Mobile App,2,1199,0.15,2038.3
+ORD0413,2025-06-14,Notebook,Stationery,East,Marketplace,1,99,0.1,89.1
+ORD0214,2025-06-14,Headphones,Electronics,East,Mobile App,1,1799,0.05,1709.05
+ORD0373,2025-06-17,Wireless Mouse,Accessories,South,Website,1,599,0.0,599.0
+ORD0455,2025-06-20,Headphones,Electronics,West,Marketplace,1,1799,0.1,1619.1
+ORD0342,2025-06-20,Backpack,Lifestyle,Central,Mobile App,1,1199,0.05,1139.05
+ORD0290,2025-06-20,Keyboard,Accessories,South,Mobile App,1,1299,0.1,1169.1
+ORD0296,2025-06-23,Keyboard,Accessories,East,Mobile App,1,1299,0.15,1104.15
+ORD0191,2025-06-23,Wireless Mouse,Accessories,South,Website,1,599,0.0,599.0
+ORD0340,2025-06-23,Desk Lamp,Home Office,South,Mobile App,3,999,0.05,2847.15
+ORD0256,2025-06-25,Wireless Mouse,Accessories,North,Website,1,599,0.05,569.05
+ORD0328,2025-06-26,Water Bottle,Lifestyle,Central,Mobile App,1,399,0.1,359.1
+ORD0164,2025-06-26,Pen Set,Stationery,West,Marketplace,2,149,0.15,253.3
+ORD0439,2025-06-27,Laptop Stand,Accessories,North,Marketplace,1,899,0.05,854.05
+ORD0356,2025-06-28,Desk Lamp,Home Office,East,Website,3,999,0.1,2697.3
+ORD0150,2025-06-28,Water Bottle,Lifestyle,South,Marketplace,1,399,0.0,399.0
+ORD0496,2025-06-28,Wireless Mouse,Accessories,South,Website,1,599,0.0,599.0
+ORD0228,2025-06-29,Laptop Stand,Accessories,Central,Mobile App,1,899,0.05,854.05
+ORD0225,2025-06-29,Desk Lamp,Home Office,Central,Website,1,999,0.1,899.1
+ORD0125,2025-06-30,Backpack,Lifestyle,South,Website,1,1199,0.1,1079.1
+ORD0442,2025-07-02,Desk Lamp,Home Office,South,Mobile App,3,999,0.15,2547.45
+ORD0414,2025-07-04,Desk Lamp,Home Office,North,Mobile App,3,999,0.15,2547.45
+ORD0465,2025-07-04,Desk Lamp,Home Office,North,Website,2,999,0.0,1998.0
+ORD0188,2025-07-06,Keyboard,Accessories,East,Mobile App,1,1299,0.1,1169.1
+ORD0337,2025-07-07,Laptop Stand,Accessories,East,Mobile App,1,899,0.05,854.05
+ORD0199,2025-07-09,Desk Lamp,Home Office,West,Mobile App,1,999,0.05,949.05
+ORD0055,2025-07-09,Notebook,Stationery,Central,Mobile App,1,99,0.1,89.1
+ORD0231,2025-07-09,Notebook,Stationery,North,Website,2,99,0.0,198.0
+ORD0201,2025-07-09,USB-C Hub,Accessories,East,Website,1,1599,0.05,1519.05
+ORD0012,2025-07-09,Pen Set,Stationery,North,Mobile App,1,149,0.1,134.1
+ORD0063,2025-07-09,Headphones,Electronics,South,Website,2,1799,0.15,3058.3
+ORD0305,2025-07-10,Backpack,Lifestyle,Central,Marketplace,2,1199,0.05,2278.1
+ORD0014,2025-07-14,Notebook,Stationery,East,Website,4,99,0.05,376.2
+ORD0103,2025-07-14,Pen Set,Stationery,East,Marketplace,1,149,0.1,134.1
+ORD0391,2025-07-15,Backpack,Lifestyle,West,Website,3,1199,0.15,3057.45
+ORD0182,2025-07-16,Backpack,Lifestyle,Central,Marketplace,1,1199,0.15,1019.15
+ORD0438,2025-07-16,Keyboard,Accessories,Central,Mobile App,2,1299,0.0,2598.0
+ORD0304,2025-07-16,Headphones,Electronics,West,Marketplace,1,1799,0.05,1709.05
+ORD0260,2025-07-17,Notebook,Stationery,East,Website,1,99,0.05,94.05
+ORD0445,2025-07-19,Pen Set,Stationery,North,Marketplace,1,149,0.0,149.0
+ORD0469,2025-07-20,Backpack,Lifestyle,East,Website,2,1199,0.05,2278.1
+ORD0244,2025-07-22,Notebook,Stationery,East,Website,2,99,0.05,188.1
+ORD0277,2025-07-22,Desk Lamp,Home Office,North,Marketplace,1,999,0.15,849.15
+ORD0184,2025-07-22,Notebook,Stationery,Central,Mobile App,1,99,0.0,99.0
+ORD0236,2025-07-22,Headphones,Electronics,East,Website,1,1799,0.05,1709.05
+ORD0306,2025-07-23,Pen Set,Stationery,North,Website,2,149,0.05,283.1
+ORD0429,2025-07-23,Wireless Mouse,Accessories,West,Mobile App,1,599,0.15,509.15
+ORD0086,2025-07-24,USB-C Hub,Accessories,North,Marketplace,1,1599,0.0,1599.0
+ORD0133,2025-07-25,Backpack,Lifestyle,South,Website,1,1199,0.0,1199.0
+ORD0229,2025-07-25,Wireless Mouse,Accessories,North,Mobile App,1,599,0.0,599.0
+ORD0039,2025-07-26,Pen Set,Stationery,South,Website,2,149,0.0,298.0
+ORD0145,2025-07-26,Notebook,Stationery,West,Website,1,99,0.15,84.15
+ORD0476,2025-07-27,Keyboard,Accessories,West,Website,1,1299,0.15,1104.15
+ORD0431,2025-07-27,Water Bottle,Lifestyle,North,Mobile App,1,399,0.15,339.15
+ORD0121,2025-07-28,Backpack,Lifestyle,West,Mobile App,2,1199,0.05,2278.1
+ORD0095,2025-07-28,Pen Set,Stationery,North,Website,1,149,0.15,126.65
+ORD0316,2025-07-29,Headphones,Electronics,North,Marketplace,1,1799,0.1,1619.1
+ORD0197,2025-07-29,Wireless Mouse,Accessories,East,Marketplace,1,599,0.0,599.0
+ORD0151,2025-07-30,Backpack,Lifestyle,Central,Website,1,1199,0.15,1019.15
+ORD0176,2025-07-30,Headphones,Electronics,South,Website,2,1799,0.05,3418.1
+ORD0038,2025-07-30,Backpack,Lifestyle,North,Website,3,1199,0.0,3597.0
+ORD0067,2025-07-31,Laptop Stand,Accessories,West,Mobile App,1,899,0.1,809.1
+ORD0402,2025-07-31,Notebook,Stationery,West,Mobile App,1,99,0.05,94.05
+ORD0422,2025-07-31,Keyboard,Accessories,North,Mobile App,3,1299,0.05,3702.15
+ORD0189,2025-08-01,Keyboard,Accessories,Central,Mobile App,1,1299,0.1,1169.1
+ORD0324,2025-08-02,Headphones,Electronics,Central,Marketplace,2,1799,0.15,3058.3
+ORD0135,2025-08-02,Headphones,Electronics,Central,Marketplace,2,1799,0.05,3418.1
+ORD0331,2025-08-03,USB-C Hub,Accessories,East,Mobile App,4,1599,0.05,6076.2
+ORD0050,2025-08-03,Headphones,Electronics,East,Website,2,1799,0.1,3238.2
+ORD0096,2025-08-04,Water Bottle,Lifestyle,Central,Marketplace,3,399,0.0,1197.0
+ORD0223,2025-08-05,Laptop Stand,Accessories,East,Website,4,899,0.1,3236.4
+ORD0006,2025-08-05,Pen Set,Stationery,East,Website,1,149,0.05,141.55
+ORD0021,2025-08-05,Headphones,Electronics,Central,Marketplace,1,1799,0.15,1529.15
+ORD0060,2025-08-05,Notebook,Stationery,South,Mobile App,1,99,0.1,89.1
+ORD0113,2025-08-08,Pen Set,Stationery,North,Marketplace,1,149,0.1,134.1
+ORD0102,2025-08-08,Keyboard,Accessories,North,Marketplace,3,1299,0.05,3702.15
+ORD0226,2025-08-08,Desk Lamp,Home Office,Central,Mobile App,4,999,0.0,3996.0
+ORD0238,2025-08-09,Keyboard,Accessories,Central,Mobile App,1,1299,0.05,1234.05
+ORD0456,2025-08-09,Headphones,Electronics,Central,Mobile App,1,1799,0.1,1619.1
+ORD0452,2025-08-11,Notebook,Stationery,North,Marketplace,1,99,0.15,84.15
+ORD0024,2025-08-11,Keyboard,Accessories,Central,Website,1,1299,0.1,1169.1
+ORD0303,2025-08-13,Laptop Stand,Accessories,East,Marketplace,1,899,0.05,854.05
+ORD0494,2025-08-14,Desk Lamp,Home Office,North,Mobile App,1,999,0.15,849.15
+ORD0082,2025-08-15,USB-C Hub,Accessories,North,Marketplace,1,1599,0.05,1519.05
+ORD0446,2025-08-16,Pen Set,Stationery,South,Website,2,149,0.0,298.0
+ORD0310,2025-08-16,Wireless Mouse,Accessories,East,Mobile App,2,599,0.1,1078.2
+ORD0490,2025-08-16,Backpack,Lifestyle,South,Marketplace,1,1199,0.0,1199.0
+ORD0300,2025-08-16,Pen Set,Stationery,Central,Marketplace,1,149,0.1,134.1
+ORD0136,2025-08-19,Backpack,Lifestyle,East,Mobile App,1,1199,0.15,1019.15
+ORD0152,2025-08-21,Wireless Mouse,Accessories,North,Marketplace,1,599,0.1,539.1
+ORD0369,2025-08-21,Desk Lamp,Home Office,Central,Marketplace,1,999,0.05,949.05
+ORD0169,2025-08-22,Laptop Stand,Accessories,South,Website,2,899,0.15,1528.3
+ORD0371,2025-08-23,Notebook,Stationery,East,Marketplace,2,99,0.0,198.0
+ORD0212,2025-08-23,Laptop Stand,Accessories,West,Marketplace,1,899,0.15,764.15
+ORD0334,2025-08-23,USB-C Hub,Accessories,North,Website,1,1599,0.1,1439.1
+ORD0292,2025-08-23,Laptop Stand,Accessories,South,Website,1,899,0.0,899.0
+ORD0240,2025-08-24,Wireless Mouse,Accessories,Central,Marketplace,3,599,0.15,1527.45
+ORD0158,2025-08-25,Wireless Mouse,Accessories,West,Mobile App,2,599,0.05,1138.1
+ORD0041,2025-08-25,USB-C Hub,Accessories,West,Mobile App,3,1599,0.0,4797.0
+ORD0291,2025-08-26,Backpack,Lifestyle,North,Mobile App,2,1199,0.05,2278.1
+ORD0317,2025-08-27,Desk Lamp,Home Office,South,Marketplace,1,999,0.05,949.05
+ORD0415,2025-08-29,Pen Set,Stationery,East,Marketplace,3,149,0.1,402.3
+ORD0170,2025-08-29,Notebook,Stationery,North,Marketplace,1,99,0.15,84.15
+ORD0280,2025-08-29,Backpack,Lifestyle,North,Marketplace,2,1199,0.0,2398.0
+ORD0069,2025-08-29,USB-C Hub,Accessories,East,Marketplace,1,1599,0.15,1359.15
+ORD0351,2025-08-30,Laptop Stand,Accessories,Central,Marketplace,2,899,0.05,1708.1
+ORD0124,2025-08-31,Desk Lamp,Home Office,Central,Marketplace,1,999,0.15,849.15
+ORD0030,2025-09-01,Desk Lamp,Home Office,South,Mobile App,1,999,0.15,849.15
+ORD0091,2025-09-01,Backpack,Lifestyle,East,Mobile App,1,1199,0.05,1139.05
+ORD0364,2025-09-01,Backpack,Lifestyle,East,Marketplace,2,1199,0.1,2158.2
+ORD0345,2025-09-01,Laptop Stand,Accessories,West,Mobile App,1,899,0.0,899.0
+ORD0255,2025-09-01,Desk Lamp,Home Office,West,Website,1,999,0.0,999.0
+ORD0097,2025-09-02,Laptop Stand,Accessories,West,Marketplace,3,899,0.1,2427.3
+ORD0374,2025-09-02,Pen Set,Stationery,East,Marketplace,3,149,0.0,447.0
+ORD0127,2025-09-05,Notebook,Stationery,North,Website,2,99,0.1,178.2
+ORD0472,2025-09-05,Pen Set,Stationery,West,Marketplace,1,149,0.15,126.65
+ORD0470,2025-09-05,Wireless Mouse,Accessories,North,Mobile App,1,599,0.0,599.0
+ORD0116,2025-09-05,Backpack,Lifestyle,East,Website,1,1199,0.1,1079.1
+ORD0488,2025-09-06,Keyboard,Accessories,Central,Mobile App,1,1299,0.15,1104.15
+ORD0029,2025-09-06,Wireless Mouse,Accessories,South,Mobile App,4,599,0.05,2276.2
+ORD0156,2025-09-06,Wireless Mouse,Accessories,South,Marketplace,1,599,0.05,569.05
+ORD0092,2025-09-06,USB-C Hub,Accessories,East,Website,1,1599,0.0,1599.0
+ORD0119,2025-09-07,USB-C Hub,Accessories,East,Marketplace,1,1599,0.1,1439.1
+ORD0114,2025-09-08,Wireless Mouse,Accessories,West,Mobile App,1,599,0.1,539.1
+ORD0059,2025-09-08,Notebook,Stationery,North,Mobile App,3,99,0.0,297.0
+ORD0248,2025-09-10,Backpack,Lifestyle,Central,Mobile App,2,1199,0.15,2038.3
+ORD0403,2025-09-11,Laptop Stand,Accessories,Central,Marketplace,4,899,0.15,3056.6
+ORD0185,2025-09-12,Notebook,Stationery,Central,Marketplace,2,99,0.05,188.1
+ORD0017,2025-09-13,Water Bottle,Lifestyle,South,Marketplace,3,399,0.15,1017.45
+ORD0333,2025-09-13,Notebook,Stationery,West,Mobile App,1,99,0.0,99.0
+ORD0272,2025-09-15,Desk Lamp,Home Office,South,Mobile App,1,999,0.05,949.05
+ORD0318,2025-09-15,Laptop Stand,Accessories,East,Website,3,899,0.05,2562.15
+ORD0378,2025-09-15,Notebook,Stationery,East,Mobile App,2,99,0.1,178.2
+ORD0090,2025-09-16,Water Bottle,Lifestyle,South,Mobile App,3,399,0.15,1017.45
+ORD0383,2025-09-16,USB-C Hub,Accessories,South,Marketplace,2,1599,0.05,3038.1
+ORD0054,2025-09-17,Notebook,Stationery,North,Website,1,99,0.1,89.1
+ORD0025,2025-09-17,Wireless Mouse,Accessories,Central,Mobile App,3,599,0.1,1617.3
+ORD0162,2025-09-17,Notebook,Stationery,East,Mobile App,2,99,0.1,178.2
+ORD0072,2025-09-18,Water Bottle,Lifestyle,North,Website,2,399,0.1,718.2
+ORD0341,2025-09-18,Water Bottle,Lifestyle,North,Website,1,399,0.0,399.0
+ORD0161,2025-09-18,Keyboard,Accessories,West,Marketplace,3,1299,0.1,3507.3
+ORD0075,2025-09-19,Wireless Mouse,Accessories,East,Website,1,599,0.05,569.05
+ORD0386,2025-09-20,Water Bottle,Lifestyle,Central,Marketplace,1,399,0.0,399.0
+ORD0153,2025-09-21,Laptop Stand,Accessories,West,Website,2,899,0.15,1528.3
+ORD0083,2025-09-21,Headphones,Electronics,East,Website,1,1799,0.05,1709.05
+ORD0035,2025-09-21,USB-C Hub,Accessories,South,Mobile App,1,1599,0.15,1359.15
+ORD0032,2025-09-22,Backpack,Lifestyle,North,Marketplace,1,1199,0.05,1139.05
+ORD0384,2025-09-24,Backpack,Lifestyle,Central,Marketplace,1,1199,0.05,1139.05
+ORD0428,2025-09-26,Keyboard,Accessories,East,Marketplace,1,1299,0.1,1169.1
+ORD0022,2025-09-28,Notebook,Stationery,North,Mobile App,4,99,0.0,396.0
+ORD0382,2025-09-28,Pen Set,Stationery,North,Mobile App,1,149,0.0,149.0
+ORD0056,2025-09-28,Laptop Stand,Accessories,North,Website,2,899,0.1,1618.2
+ORD0230,2025-09-29,USB-C Hub,Accessories,East,Website,1,1599,0.15,1359.15
+ORD0407,2025-09-29,Keyboard,Accessories,South,Marketplace,1,1299,0.1,1169.1
+ORD0216,2025-09-29,Notebook,Stationery,North,Mobile App,1,99,0.15,84.15
+ORD0353,2025-09-30,Pen Set,Stationery,Central,Marketplace,1,149,0.1,134.1
+ORD0499,2025-09-30,Notebook,Stationery,East,Mobile App,2,99,0.05,188.1
+ORD0425,2025-09-30,Desk Lamp,Home Office,Central,Mobile App,1,999,0.0,999.0
+ORD0101,2025-10-01,Laptop Stand,Accessories,North,Mobile App,3,899,0.0,2697.0
+ORD0270,2025-10-01,USB-C Hub,Accessories,South,Marketplace,1,1599,0.15,1359.15
+ORD0464,2025-10-01,Desk Lamp,Home Office,Central,Website,3,999,0.15,2547.45
+ORD0366,2025-10-01,Laptop Stand,Accessories,West,Website,3,899,0.05,2562.15
+ORD0129,2025-10-01,Keyboard,Accessories,Central,Marketplace,1,1299,0.0,1299.0
+ORD0479,2025-10-02,Keyboard,Accessories,West,Website,1,1299,0.05,1234.05
+ORD0023,2025-10-02,Notebook,Stationery,North,Marketplace,2,99,0.1,178.2
+ORD0486,2025-10-03,Keyboard,Accessories,East,Website,2,1299,0.15,2208.3
+ORD0393,2025-10-03,Water Bottle,Lifestyle,North,Website,1,399,0.05,379.05
+ORD0405,2025-10-03,Backpack,Lifestyle,East,Mobile App,1,1199,0.05,1139.05
+ORD0098,2025-10-03,Desk Lamp,Home Office,West,Website,2,999,0.05,1898.1
+ORD0105,2025-10-04,Laptop Stand,Accessories,South,Mobile App,4,899,0.1,3236.4
+ORD0287,2025-10-06,Desk Lamp,Home Office,West,Marketplace,2,999,0.0,1998.0
+ORD0180,2025-10-07,Keyboard,Accessories,Central,Marketplace,1,1299,0.1,1169.1
+ORD0157,2025-10-10,Laptop Stand,Accessories,South,Website,2,899,0.0,1798.0
+ORD0139,2025-10-10,Wireless Mouse,Accessories,West,Mobile App,1,599,0.15,509.15
+ORD0254,2025-10-11,Laptop Stand,Accessories,East,Mobile App,1,899,0.05,854.05
+ORD0417,2025-10-11,Headphones,Electronics,East,Website,2,1799,0.15,3058.3
+ORD0222,2025-10-15,Pen Set,Stationery,East,Mobile App,2,149,0.15,253.3
+ORD0134,2025-10-16,Notebook,Stationery,North,Mobile App,1,99,0.05,94.05
+ORD0435,2025-10-16,Laptop Stand,Accessories,North,Website,1,899,0.1,809.1
+ORD0492,2025-10-17,Backpack,Lifestyle,Central,Website,1,1199,0.0,1199.0
+ORD0434,2025-10-18,Backpack,Lifestyle,East,Mobile App,1,1199,0.0,1199.0
+ORD0372,2025-10-18,USB-C Hub,Accessories,West,Mobile App,1,1599,0.15,1359.15
+ORD0144,2025-10-19,Notebook,Stationery,East,Mobile App,1,99,0.15,84.15
+ORD0080,2025-10-19,Notebook,Stationery,East,Marketplace,1,99,0.0,99.0
+ORD0450,2025-10-20,Desk Lamp,Home Office,South,Website,1,999,0.15,849.15
+ORD0314,2025-10-21,Pen Set,Stationery,Central,Website,1,149,0.05,141.55
+ORD0131,2025-10-21,Notebook,Stationery,East,Website,1,99,0.15,84.15
+ORD0357,2025-10-21,Desk Lamp,Home Office,East,Website,1,999,0.15,849.15
+ORD0376,2025-10-21,Laptop Stand,Accessories,South,Website,1,899,0.1,809.1
+ORD0183,2025-10-22,Notebook,Stationery,North,Mobile App,4,99,0.1,356.4
+ORD0224,2025-10-23,Desk Lamp,Home Office,South,Website,1,999,0.15,849.15
+ORD0110,2025-10-24,Laptop Stand,Accessories,West,Mobile App,3,899,0.15,2292.45
+ORD0163,2025-10-24,Backpack,Lifestyle,Central,Marketplace,3,1199,0.15,3057.45
+ORD0261,2025-10-26,Keyboard,Accessories,West,Website,3,1299,0.1,3507.3
+ORD0019,2025-10-26,Water Bottle,Lifestyle,Central,Marketplace,1,399,0.05,379.05
+ORD0149,2025-10-27,Water Bottle,Lifestyle,North,Marketplace,2,399,0.15,678.3
+ORD0443,2025-10-27,Water Bottle,Lifestyle,South,Mobile App,1,399,0.1,359.1
+ORD0361,2025-10-28,USB-C Hub,Accessories,South,Website,1,1599,0.05,1519.05
+ORD0436,2025-10-28,Keyboard,Accessories,North,Marketplace,2,1299,0.15,2208.3
+ORD0410,2025-10-28,Desk Lamp,Home Office,East,Marketplace,1,999,0.05,949.05
+ORD0497,2025-10-29,Pen Set,Stationery,South,Mobile App,3,149,0.15,379.95
+ORD0005,2025-10-29,Notebook,Stationery,South,Mobile App,2,99,0.0,198.0
+ORD0142,2025-10-29,USB-C Hub,Accessories,South,Marketplace,1,1599,0.05,1519.05
+ORD0168,2025-10-30,Pen Set,Stationery,North,Mobile App,3,149,0.15,379.95
+ORD0140,2025-11-01,Backpack,Lifestyle,East,Mobile App,1,1199,0.05,1139.05
+ORD0262,2025-11-01,Wireless Mouse,Accessories,East,Website,1,599,0.15,509.15
+ORD0089,2025-11-01,Pen Set,Stationery,Central,Mobile App,4,149,0.15,506.6
+ORD0120,2025-11-02,Notebook,Stationery,North,Website,2,99,0.05,188.1
+ORD0074,2025-11-02,Water Bottle,Lifestyle,West,Mobile App,1,399,0.1,359.1
+ORD0146,2025-11-03,Laptop Stand,Accessories,Central,Marketplace,3,899,0.1,2427.3
+ORD0058,2025-11-06,USB-C Hub,Accessories,East,Mobile App,2,1599,0.05,3038.1
+ORD0440,2025-11-06,Headphones,Electronics,East,Website,4,1799,0.15,6116.6
+ORD0109,2025-11-07,Wireless Mouse,Accessories,East,Website,2,599,0.05,1138.1
+ORD0380,2025-11-07,Pen Set,Stationery,Central,Mobile App,1,149,0.15,126.65
+ORD0118,2025-11-09,Water Bottle,Lifestyle,East,Website,1,399,0.15,339.15
+ORD0481,2025-11-09,Water Bottle,Lifestyle,East,Marketplace,2,399,0.1,718.2
+ORD0477,2025-11-11,USB-C Hub,Accessories,West,Website,1,1599,0.15,1359.15
+ORD0344,2025-11-12,Notebook,Stationery,Central,Marketplace,2,99,0.15,168.3
+ORD0482,2025-11-13,Keyboard,Accessories,Central,Mobile App,2,1299,0.1,2338.2
+ORD0424,2025-11-13,Headphones,Electronics,North,Website,3,1799,0.15,4587.45
+ORD0066,2025-11-14,Keyboard,Accessories,South,Website,3,1299,0.05,3702.15
+ORD0137,2025-11-14,Laptop Stand,Accessories,South,Mobile App,2,899,0.0,1798.0
+ORD0348,2025-11-14,Water Bottle,Lifestyle,North,Mobile App,1,399,0.05,379.05
+ORD0107,2025-11-15,Keyboard,Accessories,North,Mobile App,1,1299,0.15,1104.15
+ORD0283,2025-11-15,Backpack,Lifestyle,Central,Mobile App,1,1199,0.15,1019.15
+ORD0053,2025-11-15,Headphones,Electronics,Central,Website,4,1799,0.0,7196.0
+ORD0268,2025-11-16,Keyboard,Accessories,West,Marketplace,2,1299,0.0,2598.0
+ORD0339,2025-11-16,Headphones,Electronics,West,Marketplace,1,1799,0.0,1799.0
+ORD0259,2025-11-20,Pen Set,Stationery,Central,Mobile App,1,149,0.0,149.0
+ORD0215,2025-11-21,Headphones,Electronics,West,Mobile App,1,1799,0.1,1619.1
+ORD0462,2025-11-21,Notebook,Stationery,West,Marketplace,1,99,0.05,94.05
+ORD0441,2025-11-21,Notebook,Stationery,West,Website,2,99,0.15,168.3
+ORD0013,2025-11-22,Keyboard,Accessories,South,Marketplace,1,1299,0.05,1234.05
+ORD0249,2025-11-22,Headphones,Electronics,South,Marketplace,1,1799,0.1,1619.1
+ORD0181,2025-11-24,Water Bottle,Lifestyle,East,Website,2,399,0.15,678.3
+ORD0001,2025-11-24,Wireless Mouse,Accessories,South,Website,1,599,0.1,539.1
+ORD0325,2025-11-25,Notebook,Stationery,East,Marketplace,1,99,0.15,84.15
+ORD0421,2025-11-25,Laptop Stand,Accessories,North,Website,1,899,0.0,899.0
+ORD0365,2025-11-27,Laptop Stand,Accessories,Central,Website,3,899,0.0,2697.0
+ORD0187,2025-11-27,Laptop Stand,Accessories,North,Mobile App,1,899,0.15,764.15
+ORD0052,2025-11-27,Notebook,Stationery,North,Marketplace,1,99,0.0,99.0
+ORD0246,2025-11-27,Keyboard,Accessories,East,Website,1,1299,0.05,1234.05
+ORD0408,2025-11-28,Wireless Mouse,Accessories,North,Mobile App,3,599,0.1,1617.3
+ORD0474,2025-11-28,Wireless Mouse,Accessories,South,Mobile App,2,599,0.05,1138.1
+ORD0196,2025-11-28,Wireless Mouse,Accessories,East,Mobile App,2,599,0.15,1018.3
+ORD0294,2025-11-28,USB-C Hub,Accessories,East,Marketplace,1,1599,0.0,1599.0
+ORD0167,2025-11-30,Keyboard,Accessories,South,Mobile App,1,1299,0.0,1299.0
+ORD0489,2025-12-01,Backpack,Lifestyle,West,Mobile App,1,1199,0.15,1019.15
+ORD0495,2025-12-01,USB-C Hub,Accessories,West,Marketplace,1,1599,0.0,1599.0
+ORD0419,2025-12-02,Pen Set,Stationery,West,Marketplace,1,149,0.15,126.65
+ORD0359,2025-12-02,Notebook,Stationery,South,Mobile App,2,99,0.05,188.1
+ORD0466,2025-12-03,Pen Set,Stationery,Central,Mobile App,1,149,0.0,149.0
+ORD0233,2025-12-05,Water Bottle,Lifestyle,West,Marketplace,1,399,0.15,339.15
+ORD0299,2025-12-05,Notebook,Stationery,South,Mobile App,1,99,0.15,84.15
+ORD0352,2025-12-06,Backpack,Lifestyle,South,Marketplace,1,1199,0.1,1079.1
+ORD0179,2025-12-08,Laptop Stand,Accessories,East,Mobile App,3,899,0.15,2292.45
+ORD0377,2025-12-08,Wireless Mouse,Accessories,West,Mobile App,1,599,0.05,569.05
+ORD0286,2025-12-09,Wireless Mouse,Accessories,North,Mobile App,1,599,0.1,539.1
+ORD0239,2025-12-09,Pen Set,Stationery,West,Website,1,149,0.0,149.0
+ORD0051,2025-12-09,Pen Set,Stationery,South,Mobile App,1,149,0.15,126.65
+ORD0263,2025-12-10,Desk Lamp,Home Office,Central,Marketplace,1,999,0.15,849.15
+ORD0387,2025-12-11,Notebook,Stationery,East,Website,2,99,0.15,168.3
+ORD0398,2025-12-11,Laptop Stand,Accessories,West,Marketplace,1,899,0.0,899.0
+ORD0401,2025-12-11,Pen Set,Stationery,Central,Website,1,149,0.05,141.55
+ORD0194,2025-12-11,Notebook,Stationery,North,Mobile App,2,99,0.1,178.2
+ORD0427,2025-12-12,Water Bottle,Lifestyle,North,Website,2,399,0.05,758.1
+ORD0171,2025-12-12,Desk Lamp,Home Office,West,Mobile App,1,999,0.1,899.1
+ORD0192,2025-12-13,Water Bottle,Lifestyle,North,Marketplace,4,399,0.1,1436.4
+ORD0467,2025-12-13,Water Bottle,Lifestyle,West,Website,4,399,0.1,1436.4
+ORD0269,2025-12-13,USB-C Hub,Accessories,West,Website,4,1599,0.1,5756.4
+ORD0302,2025-12-14,Keyboard,Accessories,Central,Mobile App,4,1299,0.05,4936.2
+ORD0235,2025-12-14,Headphones,Electronics,North,Website,1,1799,0.1,1619.1
+ORD0100,2025-12-14,Water Bottle,Lifestyle,South,Mobile App,2,399,0.15,678.3
+ORD0271,2025-12-14,Headphones,Electronics,East,Marketplace,4,1799,0.15,6116.6
+ORD0392,2025-12-16,Desk Lamp,Home Office,North,Website,1,999,0.1,899.1
+ORD0065,2025-12-16,USB-C Hub,Accessories,Central,Marketplace,2,1599,0.1,2878.2
+ORD0213,2025-12-18,Wireless Mouse,Accessories,North,Website,1,599,0.15,509.15
+ORD0202,2025-12-18,Pen Set,Stationery,North,Marketplace,1,149,0.1,134.1
+ORD0220,2025-12-18,Backpack,Lifestyle,North,Marketplace,1,1199,0.0,1199.0
+ORD0031,2025-12-20,USB-C Hub,Accessories,East,Marketplace,2,1599,0.15,2718.3
+ORD0227,2025-12-22,Notebook,Stationery,East,Marketplace,1,99,0.1,89.1
+ORD0174,2025-12-22,Notebook,Stationery,East,Website,3,99,0.0,297.0
+ORD0458,2025-12-22,Backpack,Lifestyle,East,Marketplace,4,1199,0.05,4556.2
+ORD0412,2025-12-23,Headphones,Electronics,South,Mobile App,2,1799,0.15,3058.3
+ORD0404,2025-12-23,Water Bottle,Lifestyle,West,Website,1,399,0.1,359.1
+ORD0130,2025-12-24,Keyboard,Accessories,North,Website,2,1299,0.15,2208.3
+ORD0349,2025-12-25,Wireless Mouse,Accessories,East,Marketplace,1,599,0.15,509.15
+ORD0308,2025-12-27,Backpack,Lifestyle,West,Website,1,1199,0.1,1079.1
+ORD0478,2025-12-27,USB-C Hub,Accessories,Central,Website,1,1599,0.0,1599.0
+ORD0010,2025-12-27,Wireless Mouse,Accessories,East,Website,1,599,0.05,569.05
+ORD0034,2025-12-29,Laptop Stand,Accessories,East,Website,1,899,0.0,899.0
+ORD0257,2025-12-29,Backpack,Lifestyle,East,Marketplace,4,1199,0.05,4556.2
+ORD0076,2025-12-29,Water Bottle,Lifestyle,East,Marketplace,1,399,0.05,379.05
+ORD0241,2025-12-30,Water Bottle,Lifestyle,North,Marketplace,1,399,0.15,339.15
+ORD0312,2025-12-30,Keyboard,Accessories,North,Website,2,1299,0.05,2468.1
+ORD0122,2025-12-31,Backpack,Lifestyle,North,Marketplace,1,1199,0.0,1199.0
